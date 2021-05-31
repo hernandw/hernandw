@@ -1,17 +1,19 @@
-### Hi there soy williams 👋
-
-
-**hernandw/hernandw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi [Williams][website] here 👋
 
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m looking for my first job as a front-end developer. frontend
-- 🌱 I’m currently learning ...
+ ##### ABOUT ME
+
+ I'm a university and high school teacher who after 15 years decided change his life becoming a newbie front-end developer. Here you can find stuff I'm learning and working on. Take a look! 😉
+
+- 🔭 I’m looking for my first job as a front-end developer.
+- 🌱 I’m currently learning with platzi, udemy and bootcamp JavaScript Fullstack Trainee of Sence ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I have been a vegetarian since I was 17 years old.
+
+[website]: https://hernandw.github.io/
