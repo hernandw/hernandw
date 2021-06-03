@@ -10,6 +10,6 @@
 - 🔭 I’m looking for my first job as a front-end developer.
 - 🌱 I’m currently learning with platzi, udemy and bootcamp JavaScript Fullstack Trainee of Sence.
 
-- ⚡ Fun fact: I have been a vegetarian since I was 17 years old.
+- ⚡ Fun fact: I'm a vegetarian since I was 17 years old.
 
 [website]: https://hernandw.github.io/
