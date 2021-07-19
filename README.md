@@ -14,4 +14,4 @@
 
 [website]: https://hernandw.github.io/
 
-https://github.com/hernandw/github-readme-stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hernandw)](https://github.com/hernandw/github-readme-stats)
