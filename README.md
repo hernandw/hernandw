@@ -5,7 +5,7 @@
 ![Hernandw's GitHub stats](https://github-readme-stats.vercel.app/api?username=hernandw&theme=dark&show_icons=true)
 
 <p>
-  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernandw&layout=compact&card_width=500&theme=radical&hide_border=true" />
+  <img width="96%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernandw&layout=compact&card_width=500&theme=radical&hide_border=true" />
 </p>
 
 <p>
