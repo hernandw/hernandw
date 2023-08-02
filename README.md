@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Williams Hernández</h1>
 <h3 align="center">Full Stack Developer Javascript / React</h3><br /><br />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hernandw&theme=dark&hide_border=true)](https://git.io/streak-stats)
-![Hernandw's GitHub stats](https://github-readme-stats.vercel.app/api?username=hernandw&theme=dark&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hernandw&theme=dark&hide_border=true)](https://git.io/streak-stats) ![Hernandw's GitHub stats](https://github-readme-stats.vercel.app/api?username=hernandw&theme=dark&show_icons=true)
 
 <p>
   <img width="96%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernandw&layout=compact&card_width=500&theme=radical&hide_border=true" />
