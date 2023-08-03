@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Williams Hernández</h1>
 <h3 align="center">Full Stack Developer Javascript / React</h3><br /><br />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hernandw&theme=dark&exclude_days=Sun%2CSat&card_width=450)](https://git.io/streak-stats)<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark&showIcons=false&preferLogin=false"><img  alt="hernandw's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/hernandw?cardType=github&theme=dark&showIcons=false&preferLogin=false" />  </a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=hernandw&theme=dark&hide_border=true&mode=weekly&exclude_days=Sun%2CSat&card_width=450&type=png)](https://git.io/streak-stats)
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark&showIcons=false&preferLogin=false"><img  alt="hernandw's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/hernandw?cardType=github&theme=dark&showIcons=false&preferLogin=false" />  </a>
 
 <p>
-  <img width="96%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernandw&layout=compact&card_width=500&theme=radical&hide_border=true" />
+  <img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernandw&layout=compact&card_width=500&theme=radical&hide_border=true" />
 </p>
 
 <p>
