@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Williams Hernández</h1>
 <h3 align="center">Full Stack Developer Javascript / React</h3><br /><br />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hernandw&theme=dark&mode=weekly&exclude_days=Sun%2CSat&card_width=450)](https://git.io/streak-stats)
-<a align="center" href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark&showIcons=false&preferLogin=false"><img  alt="hernandw's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/hernandw?cardType=github&theme=dark&showIcons=false&preferLogin=false" />  </a>
+<div align="center" style="display: flex; justify-content: center; align-items: center; ">
+<img align="center" src="https://streak-stats.demolab.com?user=hernandw&theme=dark&mode=weekly&exclude_days=Sun%2CSat&card_width=450" alt="hernandw's Public Github Stats">
+<img  alt="hernandw's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/hernandw?cardType=github&theme=dark&showIcons=false&preferLogin=false" /></a>
+</div>  
+
+
+
 
 
 <strong>🏆 Dooboo lab's github stats</strong>
@@ -22,35 +27,60 @@
 ```javascript
 const aboutMe = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, SQL],
+  languages: [Javascript, HTML, CSS, SQL],
   technologies: {
     frontEnd: {
       js: ["React"],
-      css: ["Bootstrap", "Tailwind CSS"],
+      css: ["Bootstrap", "Tailwind CSS"]
     },
     backEnd: {
       js: ["Node", "Express"],
-      misc: ["Jest", "WordPress", "Moodle"],
+      misc: ["Jest", "WordPress", "Moodle"]
     },
-    databases: ["Postgres", "MySQL"],
+    databases: ["Postgres", "MySQL"]
   },
-  currentOccupation: [
-    "Teacher Bootcamp Full Stack Javascript",
-    "Freelance",
-    "open for job opportunities",
+  education: [
+    {
+      universityName: "Universidad de Carabobo",
+      location: "Venezuela",
+      degreeTitle: "Specialization in Computer Technologies in Education",
+      period: "2007 - 2010"
+      },
+      {
+        universityName: "Universidad de Carabobo",
+        location: "Venezuela",
+        degreeTitle: "Teacher in Education",
+        period: "1998 - 2003"
+      }
   ],
+  currentJob: {
+    title: "Teacher Bootcamp Full Stack Javascript React",
+    company: "Academia Desafio Latam",
+    location: "Chile",
+    period: "2022 - Present"
+  },
   volunteering: ["Technovation Girl Chile", "ID For Ideas", "Hunteando"],
   challenge: ["I'm currently English and Amazon Web Services"],
-  visitedCountries: ["Venezuela", "Aruba", "Chile", "Perú", "Argentina", "Brasil", "USA", "Francia", "Reino Unido"],
+  visitedCountries: [
+    "Venezuela",
+    "Aruba",
+    "Chile",
+    "Perú",
+    "Argentina",
+    "Brasil",
+    "USA",
+    "Francia",
+    "Reino Unido",
+  ],
   livedIn: ["Venezuela"],
-  LivesIn: ["Chile"]
+  livesIn: ["Chile"],
+  funFacT: [
+    "I have been a vegetarian since 1995",
+    "I love to travel",
+    "I love coding",
+  ]
 };
 ```
-
-
-- 💻 I’m working at [ADL](https://www.desafiolatam.com/) as a Teacher of the Bootcamp Full Stack Javascript React
-
-- 🔍 I’m currently learning **AWS**
 
 </p>
 
@@ -109,6 +139,12 @@ const aboutMe = {
 
 <h3 align="center"> 🎨 Are you looking for a developer? Feel free to reach me! 🎨 </h3>
 <hr>
+
+### Recently I'm coding in...
+
+<a href="https://codestats.net/users/hernandw">
+  <img src='https://codestats-readme.hernandw.cn/history-graph/hernandw?width=850&height=300&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="hernandw's Code::Stats history graph" />
+</a>
 
 ### Thanks for visiting :heart:
 
