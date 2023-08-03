@@ -142,6 +142,11 @@ const aboutMe = {
 <hr>
 
 
-### Thanks for visiting :heart:
+### Activity Graph of the last 31 days of Williams Hernández
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hernandw&custom_title=Williams%20Hernandez%20Activity%20Graph&hide_border=true&theme=tokyo-night&title_color=FFFFFF&area=true&radius=6&point=FFFFFF&color=FFFFFF"/>
 
+
+### Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/hernandw/count.svg)
+
+
