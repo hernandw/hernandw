@@ -4,6 +4,12 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=hernandw&theme=dark&mode=weekly&exclude_days=Sun%2CSat&card_width=450)](https://git.io/streak-stats)
 <a align="center" href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark&showIcons=false&preferLogin=false"><img  alt="hernandw's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/hernandw?cardType=github&theme=dark&showIcons=false&preferLogin=false" />  </a>
 
+
+<strong>🏆 Dooboo lab's github stats</strong>
+
+<a href="https://stats.hyochan.dev/en/stats/hernandw"><img src="https://stats.hyochan.dev/api/github-stats?login=hernandw" width="600" /></a>
+
+
 <p>
   <img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernandw&layout=compact&card_width=500&theme=radical&hide_border=true" />
 </p>
