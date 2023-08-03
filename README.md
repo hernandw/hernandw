@@ -37,31 +37,43 @@
 
 ## Languages
 
-![Javascript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=sql)
 
 ## Tools:
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) 
-![VS Code](https://img.shields.io/badge/-visualstudiocode-000000?style=flat&logo=visual-studio-code) <br />
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react) <br />
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
-![Tailwind](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=tailwindcss)
-![jQuery](https://img.shields.io/badge/jquery-000000?style=flat&logo=jquery)
-![SASS](https://img.shields.io/badge/SASS-000000?style=flat&logo=SASS)
-![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js) 
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)<br />
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
-![Sequelize](https://img.shields.io/badge/Sequelize-000000?style=flat&logo=Sequelize) <br />
-![Pug](https://img.shields.io/badge/Pug-000000?style=flat&logo=pug)<br />
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+![GitHub Pages Badge](https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=flat)
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)<br />
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
+![React Router Badge](https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=flat)
+![Create React App Badge](https://img.shields.io/badge/Create%20React%20App-09D3AC?logo=createreactapp&logoColor=fff&style=flat)
+![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
+<br />
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat)
+![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
+![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
+![Sass Badge](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=flat) <br />
+![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
+![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat)<br />
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
+![Sequelize Badge](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=fff&style=flat) <br />
+![Handlebars.js Badge](https://img.shields.io/badge/Handlebars.js-000?logo=handlebarsdotjs&logoColor=fff&style=flat)
+![Pug Badge](https://img.shields.io/badge/Pug-A86454?logo=pug&logoColor=fff&style=flat)<br />
 ![Moodle](https://img.shields.io/badge/Moodle-000000?style=flat&logo=moodle)
-![WordPress](https://img.shields.io/badge/WordPress-000000?style=flat&logo=WordPress)<br />
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoft-word)
+![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=flat)<br />
+![Microsoft Excel Badge](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=fff&style=flat)
+![Microsoft PowerPoint Badge](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=fff&style=flat)
+![Microsoft Word Badge](https://img.shields.io/badge/Microsoft%20Word-2B579A?logo=microsoftword&logoColor=fff&style=flat)
+![LibreOffice Badge](https://img.shields.io/badge/LibreOffice-18A303?logo=libreoffice&logoColor=fff&style=flat)<br />
+![Windows 11 Badge](https://img.shields.io/badge/Windows%2011-0078D4?logo=windows11&logoColor=fff&style=flat)
+![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat)<br />
+![Trello Badge](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=flat)
+![Jira Badge](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=flat)<br />
+![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=flat)
 
 
 <h3 align="center"> 🎨 Are you looking for a developer? Feel free to reach me! 🎨 </h3>
