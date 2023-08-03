@@ -15,6 +15,36 @@
 </p>
 
 <p>
+<hr>
+## About me
+  
+```javascript
+const aboutMe = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, SQL],
+  technologies: {
+    frontEnd: {
+      js: ["React"],
+      css: ["Bootstrap", "Tailwind CSS"],
+    },
+    backEnd: {
+      js: ["Node", "Express"],
+      misc: ["Jest", "WordPress", "Moodle"],
+    },
+    databases: ["Postgres", "MySQL"],
+  },
+  currentOccupation: [
+    "Teacher Bootcamp Full Stack Javascript",
+    "Freelance",
+    "open for job opportunities",
+  ],
+  volunteering: ["Technovation Girl Chile", "ID For Ideas", "Hunteando"],
+  challenge: ["I'm currently English and Amazon Web Services"],
+  visitedCountries: ["Venezuela", "Aruba", "Chile", "Perú", "Argentina", "Brasil", "USA", "Francia", "Reino Unido"],
+  livedIn: ["Venezuela"],
+  LivesIn: ["Chile"]
+};
+```
 
 
 - 💻 I’m working at [ADL](https://www.desafiolatam.com/) as a Teacher of the Bootcamp Full Stack Javascript React
