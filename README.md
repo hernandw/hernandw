@@ -2,9 +2,6 @@
 <h3 align="center">Full Stack Developer Javascript / React</h3><br /><br />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hernandw&theme=dark&exclude_days=Sun%2CSat&card_width=450)](https://git.io/streak-stats)
-
-    
-    
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark&showIcons=false&preferLogin=false">    <img  alt="hernandw's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/hernandw?cardType=github&theme=dark&showIcons=false&preferLogin=false" />  </a>
 
 <p>
