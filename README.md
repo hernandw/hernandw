@@ -13,12 +13,14 @@
 
 <strong>🏆 Dooboo lab's github stats</strong>
 
-<a href="https://stats.hyochan.dev/en/stats/hernandw"><img src="https://stats.hyochan.dev/api/github-stats?login=hernandw" width="600" /></a>
+![hernandw github-stats](https://stats.hyochan.dev/api/github-stats-advanced?login=hernandw)
+
 
 
 <p>
-  <img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernandw&layout=compact&card_width=500&theme=radical&hide_border=true" />
+  <img width="96%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernandw&layout=compact&card_width=400&theme=radical&hide_border=true" />
 </p>
+
 
 <p>
 <hr>
