@@ -2,11 +2,12 @@
 <h3 align="center">Full Stack Developer Javascript / React</h3><br /><br />
 
 <div align="center">
-<img align="center" src="https://streak-stats.demolab.com?user=hernandw&theme=dark&mode=weekly&exclude_days=Sun%2CSat&card_width=450" alt="hernandw's Public Github Stats">
-<img  alt="hernandw's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/hernandw?cardType=github&theme=dark&showIcons=false&preferLogin=false" /></a>
+
+
 </div>  
 
-
+| <img align="center" src="https://streak-stats.demolab.com?user=hernandw&theme=dark&mode=weekly&exclude_days=Sun%2CSat&card_width=450" alt="hernandw's Public Github Stats"> | <img  alt="hernandw's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/hernandw?cardType=github&theme=dark&showIcons=false&preferLogin=false" /> | 
+| :--: | :--: |
 
 
 
