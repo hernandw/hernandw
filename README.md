@@ -74,6 +74,7 @@ const aboutMe = {
     "USA",
     "Francia",
     "Reino Unido",
+    "México
   ],
   livedIn: ["Venezuela"],
   livesIn: ["Chile"],
