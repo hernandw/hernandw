@@ -30,7 +30,7 @@
 ```javascript
 const aboutMe = {
   pronouns: "he" | "him",
-  languages: [Javascript, HTML, CSS, SQL],
+  languages: [Javascript, Typescript, HTML, CSS, SQL],
   technologies: {
     frontEnd: {
       js: ["React"],
@@ -103,6 +103,7 @@ const aboutMe = {
 ## Languages
 
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=sql)
