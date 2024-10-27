@@ -11,9 +11,7 @@
 
 
 
-<strong>🏆 Dooboo lab's github stats</strong>
 
-![hernandw github-stats](https://stats.hyochan.dev/api/github-stats-advanced?login=hernandw)
 
 
 
