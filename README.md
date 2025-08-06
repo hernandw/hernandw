@@ -146,9 +146,11 @@ const aboutMe = {
 <h3 align="center"> 🎨 Are you looking for a developer? Feel free to reach me! 🎨 </h3>
 <hr>
 
-###:zap: Actividad Reciente
-<!--RECENT_ACTIVITY:start -->
-<!--RECENT_ACTIVITY:last_update -->
+⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->>
 
 
 ### Activity Graph of the last 31 days of Williams Hernández
