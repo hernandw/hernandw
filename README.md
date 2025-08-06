@@ -146,6 +146,10 @@ const aboutMe = {
 <h3 align="center"> 🎨 Are you looking for a developer? Feel free to reach me! 🎨 </h3>
 <hr>
 
+###:zap: Actividad Reciente
+<!--START_SECTION:activity -->
+<!--END_SECTION:activity -->
+
 
 ### Activity Graph of the last 31 days of Williams Hernández
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hernandw&custom_title=Williams%20Hernandez%20Activity%20Graph&hide_border=true&theme=tokyo-night&title_color=FFFFFF&area=true&radius=6&point=FFFFFF&color=FFFFFF"/>
