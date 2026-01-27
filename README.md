@@ -150,14 +150,14 @@ const aboutMe = {
 ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [hernandw/clase1-js-grupo-B](https://github.com/hernandw/clase1-js-grupo-B)<br>
+1. ⬆️ Pushed undefined commit(s) to [hernandw/clase-3-js-grupo-B](https://github.com/hernandw/clase-3-js-grupo-B)<br>
 2. ⬆️ Pushed undefined commit(s) to [hernandw/clase1-js-grupo-B](https://github.com/hernandw/clase1-js-grupo-B)<br>
 3. ⬆️ Pushed undefined commit(s) to [hernandw/clase1-js-grupo-B](https://github.com/hernandw/clase1-js-grupo-B)<br>
-4. ⬆️ Pushed undefined commit(s) to [hernandw/clase1_js_modulo_3_A](https://github.com/hernandw/clase1_js_modulo_3_A)<br>
-5. ⭐ Starred [hernandw/TravelMap](https://github.com/hernandw/TravelMap)<br>
+4. ⬆️ Pushed undefined commit(s) to [hernandw/clase1-js-grupo-B](https://github.com/hernandw/clase1-js-grupo-B)<br>
+5. ⬆️ Pushed undefined commit(s) to [hernandw/clase1_js_modulo_3_A](https://github.com/hernandw/clase1_js_modulo_3_A)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 26th, 2026, 1:24:54 PM
+Last Updated: Tuesday, January 27th, 2026, 1:04:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
