@@ -150,14 +150,14 @@ const aboutMe = {
 ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [hernandw/wallet-digital](https://github.com/hernandw/wallet-digital)<br>
-2. ⬆️ Pushed undefined commit(s) to [hernandw/clase-3-js-grupo-B](https://github.com/hernandw/clase-3-js-grupo-B)<br>
-3. ⬆️ Pushed undefined commit(s) to [hernandw/clase1-js-grupo-B](https://github.com/hernandw/clase1-js-grupo-B)<br>
-4. ⬆️ Pushed undefined commit(s) to [hernandw/clase1-js-grupo-B](https://github.com/hernandw/clase1-js-grupo-B)<br>
-5. ⬆️ Pushed undefined commit(s) to [hernandw/clase1-js-grupo-B](https://github.com/hernandw/clase1-js-grupo-B)<br>
+1. ⬆️ Pushed undefined commit(s) to [hernandw/clase-4-js-grupo-A](https://github.com/hernandw/clase-4-js-grupo-A)<br>
+2. ⬆️ Pushed undefined commit(s) to [hernandw/clase-4-js-grupo-A](https://github.com/hernandw/clase-4-js-grupo-A)<br>
+3. ⬆️ Pushed undefined commit(s) to [hernandw/clase-4-js-grupo-A](https://github.com/hernandw/clase-4-js-grupo-A)<br>
+4. ⬆️ Pushed undefined commit(s) to [hernandw/wallet-digital](https://github.com/hernandw/wallet-digital)<br>
+5. ⬆️ Pushed undefined commit(s) to [hernandw/clase-3-js-grupo-B](https://github.com/hernandw/clase-3-js-grupo-B)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 27th, 2026, 1:26:43 PM
+Last Updated: Wednesday, January 28th, 2026, 1:00:43 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
