@@ -150,14 +150,14 @@ const aboutMe = {
 ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [hernandw/clase-5-js-modulo-3-grupo-A](https://github.com/hernandw/clase-5-js-modulo-3-grupo-A)<br>
-2. ⬆️ Pushed undefined commit(s) to [hernandw/clase-5-js-modulo-3-grupo-A](https://github.com/hernandw/clase-5-js-modulo-3-grupo-A)<br>
-3. ⬆️ Pushed undefined commit(s) to [hernandw/clase-5-js-modulo-3-grupo-A](https://github.com/hernandw/clase-5-js-modulo-3-grupo-A)<br>
-4. ⬆️ Pushed undefined commit(s) to [hernandw/clase-04-js-grupo-b](https://github.com/hernandw/clase-04-js-grupo-b)<br>
-5. ⬆️ Pushed undefined commit(s) to [hernandw/clase-04-js-grupo-b](https://github.com/hernandw/clase-04-js-grupo-b)<br>
+1. ⬆️ Pushed undefined commit(s) to [hernandw/clase-5-js-modulo-3-grupo-B](https://github.com/hernandw/clase-5-js-modulo-3-grupo-B)<br>
+2. ⬆️ Pushed undefined commit(s) to [hernandw/clase-5-js-modulo-3-grupo-B](https://github.com/hernandw/clase-5-js-modulo-3-grupo-B)<br>
+3. ⬆️ Pushed undefined commit(s) to [hernandw/clase-5-js-modulo-3-grupo-B](https://github.com/hernandw/clase-5-js-modulo-3-grupo-B)<br>
+4. ⬆️ Pushed undefined commit(s) to [hernandw/clase-5-js-modulo-3-grupo-B](https://github.com/hernandw/clase-5-js-modulo-3-grupo-B)<br>
+5. ⬆️ Pushed undefined commit(s) to [hernandw/clase-5-js-modulo-3-grupo-B](https://github.com/hernandw/clase-5-js-modulo-3-grupo-B)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 30th, 2026, 1:37:19 PM
+Last Updated: Saturday, January 31st, 2026, 1:06:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
