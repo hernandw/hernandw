@@ -150,14 +150,14 @@ const aboutMe = {
 ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [hernandw/clase-5-js-modulo-3-grupo-B](https://github.com/hernandw/clase-5-js-modulo-3-grupo-B)<br>
-2. ⬆️ Pushed undefined commit(s) to [hernandw/clase-5-js-modulo-3-grupo-B](https://github.com/hernandw/clase-5-js-modulo-3-grupo-B)<br>
-3. ⬆️ Pushed undefined commit(s) to [hernandw/clase-5-js-modulo-3-grupo-B](https://github.com/hernandw/clase-5-js-modulo-3-grupo-B)<br>
+1. ⬆️ Pushed undefined commit(s) to [hernandw/plantilla-carrito-js](https://github.com/hernandw/plantilla-carrito-js)<br>
+2. ⬆️ Pushed undefined commit(s) to [hernandw/plantilla-carrito-js](https://github.com/hernandw/plantilla-carrito-js)<br>
+3. ⬆️ Pushed undefined commit(s) to [hernandw/plantilla-carrito-js](https://github.com/hernandw/plantilla-carrito-js)<br>
 4. ⬆️ Pushed undefined commit(s) to [hernandw/clase-5-js-modulo-3-grupo-B](https://github.com/hernandw/clase-5-js-modulo-3-grupo-B)<br>
 5. ⬆️ Pushed undefined commit(s) to [hernandw/clase-5-js-modulo-3-grupo-B](https://github.com/hernandw/clase-5-js-modulo-3-grupo-B)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 2nd, 2026, 1:45:06 PM
+Last Updated: Tuesday, February 3rd, 2026, 1:13:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
