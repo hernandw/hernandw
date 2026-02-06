@@ -150,14 +150,14 @@ const aboutMe = {
 ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [hernandw/clase-02-js-modulo-04-grupo-A](https://github.com/hernandw/clase-02-js-modulo-04-grupo-A)<br>
-2. ⬆️ Pushed undefined commit(s) to [hernandw/clase-02-js-modulo-04-grupo-A](https://github.com/hernandw/clase-02-js-modulo-04-grupo-A)<br>
-3. ⬆️ Pushed undefined commit(s) to [hernandw/clase-02-js-modulo-04-grupo-A](https://github.com/hernandw/clase-02-js-modulo-04-grupo-A)<br>
-4. ⬆️ Pushed undefined commit(s) to [hernandw/ejemplo](https://github.com/hernandw/ejemplo)<br>
-5. ⬆️ Pushed undefined commit(s) to [hernandw/ejemplo](https://github.com/hernandw/ejemplo)<br>
+1. ⬆️ Pushed undefined commit(s) to [hernandw/clase-02-js-modulo-04-grupo-B](https://github.com/hernandw/clase-02-js-modulo-04-grupo-B)<br>
+2. ⬆️ Pushed undefined commit(s) to [hernandw/clase-02-js-modulo-04-grupo-B](https://github.com/hernandw/clase-02-js-modulo-04-grupo-B)<br>
+3. ⬆️ Pushed undefined commit(s) to [hernandw/clase-02-js-modulo-04-grupo-B](https://github.com/hernandw/clase-02-js-modulo-04-grupo-B)<br>
+4. ⬆️ Pushed undefined commit(s) to [hernandw/clase-02-js-modulo-04-grupo-B](https://github.com/hernandw/clase-02-js-modulo-04-grupo-B)<br>
+5. ⬆️ Pushed undefined commit(s) to [hernandw/clase-02-js-modulo-04-grupo-A](https://github.com/hernandw/clase-02-js-modulo-04-grupo-A)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 5th, 2026, 1:49:25 PM
+Last Updated: Friday, February 6th, 2026, 1:09:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
