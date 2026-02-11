@@ -150,14 +150,14 @@ const aboutMe = {
 ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [hernandw/clase-03-modulo-04-js](https://github.com/hernandw/clase-03-modulo-04-js)<br>
-2. ⬆️ Pushed undefined commit(s) to [hernandw/clase-03-modulo-04-js](https://github.com/hernandw/clase-03-modulo-04-js)<br>
+1. ⬆️ Pushed undefined commit(s) to [hernandw/tienda-productos](https://github.com/hernandw/tienda-productos)<br>
+2. ⬆️ Pushed undefined commit(s) to [hernandw/tienda-productos](https://github.com/hernandw/tienda-productos)<br>
 3. ⬆️ Pushed undefined commit(s) to [hernandw/clase-03-modulo-04-js](https://github.com/hernandw/clase-03-modulo-04-js)<br>
-4. ⬆️ Pushed undefined commit(s) to [hernandw/clase-03-modulo-04-grupo-A](https://github.com/hernandw/clase-03-modulo-04-grupo-A)<br>
-5. ⬆️ Pushed undefined commit(s) to [hernandw/clase-02-js-modulo-04-grupo-B](https://github.com/hernandw/clase-02-js-modulo-04-grupo-B)<br>
+4. ⬆️ Pushed undefined commit(s) to [hernandw/clase-03-modulo-04-js](https://github.com/hernandw/clase-03-modulo-04-js)<br>
+5. ⬆️ Pushed undefined commit(s) to [hernandw/clase-03-modulo-04-js](https://github.com/hernandw/clase-03-modulo-04-js)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 10th, 2026, 2:11:10 PM
+Last Updated: Wednesday, February 11th, 2026, 1:22:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
