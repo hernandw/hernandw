@@ -150,14 +150,14 @@ const aboutMe = {
 ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [hernandw/clase-03-modulo-05-grupo-a](https://github.com/hernandw/clase-03-modulo-05-grupo-a)<br>
-2. ⬆️ Pushed undefined commit(s) to [hernandw/clase-03-modulo-05-grupo-a](https://github.com/hernandw/clase-03-modulo-05-grupo-a)<br>
-3. ⬆️ Pushed undefined commit(s) to [hernandw/clase-02-SQL-grupo-B](https://github.com/hernandw/clase-02-SQL-grupo-B)<br>
-4. ⬆️ Pushed undefined commit(s) to [hernandw/clase-2-modulo-5-grupo-A](https://github.com/hernandw/clase-2-modulo-5-grupo-A)<br>
-5. ⬆️ Pushed undefined commit(s) to [hernandw/clase-05-modulo-04-grupo-A](https://github.com/hernandw/clase-05-modulo-04-grupo-A)<br>
+1. ⬆️ Pushed undefined commit(s) to [hernandw/clase_03_grupo_B](https://github.com/hernandw/clase_03_grupo_B)<br>
+2. ⬆️ Pushed undefined commit(s) to [hernandw/clase_03_grupo_B](https://github.com/hernandw/clase_03_grupo_B)<br>
+3. ⬆️ Pushed undefined commit(s) to [hernandw/clase_03_grupo_B](https://github.com/hernandw/clase_03_grupo_B)<br>
+4. ⬆️ Pushed undefined commit(s) to [hernandw/clase-03-modulo-05-grupo-a](https://github.com/hernandw/clase-03-modulo-05-grupo-a)<br>
+5. ⬆️ Pushed undefined commit(s) to [hernandw/clase-03-modulo-05-grupo-a](https://github.com/hernandw/clase-03-modulo-05-grupo-a)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 2nd, 2026, 1:42:43 PM
+Last Updated: Tuesday, March 3rd, 2026, 1:14:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
