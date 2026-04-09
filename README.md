@@ -150,14 +150,14 @@ const aboutMe = {
 ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [hernandw/modulo_09_clase_01_grupo_B](https://github.com/hernandw/modulo_09_clase_01_grupo_B)<br>
-2. ⬆️ Pushed undefined commit(s) to [hernandw/clase_01_modulo_09](https://github.com/hernandw/clase_01_modulo_09)<br>
+1. ⬆️ Pushed undefined commit(s) to [hernandw/modulo_09_jwt_grupo_B](https://github.com/hernandw/modulo_09_jwt_grupo_B)<br>
+2. ⬆️ Pushed undefined commit(s) to [hernandw/modulo_09_clase_01_grupo_B](https://github.com/hernandw/modulo_09_clase_01_grupo_B)<br>
 3. ⬆️ Pushed undefined commit(s) to [hernandw/clase_01_modulo_09](https://github.com/hernandw/clase_01_modulo_09)<br>
 4. ⬆️ Pushed undefined commit(s) to [hernandw/clase_01_modulo_09](https://github.com/hernandw/clase_01_modulo_09)<br>
-5. ⬆️ Pushed undefined commit(s) to [hernandw/clase_05_modulo_08](https://github.com/hernandw/clase_05_modulo_08)<br>
+5. ⬆️ Pushed undefined commit(s) to [hernandw/clase_01_modulo_09](https://github.com/hernandw/clase_01_modulo_09)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 9th, 2026, 1:14:49 AM
+Last Updated: Thursday, April 9th, 2026, 2:50:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
