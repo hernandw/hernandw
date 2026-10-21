@@ -150,11 +150,13 @@ const aboutMe = {
 ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [hernandw/p-l_calendar_trading](https://github.com/hernandw/p-l_calendar_trading)<br>
-2. ⬆️ Pushed undefined commit(s) to [hernandw/p-l_calendar_trading](https://github.com/hernandw/p-l_calendar_trading)<br>
+1. ⬆️ Pushed undefined commit(s) to [hernandw/hernandw.github.io](https://github.com/hernandw/hernandw.github.io)<br>
+2. ⬆️ Pushed undefined commit(s) to [hernandw/hernandw.github.io](https://github.com/hernandw/hernandw.github.io)<br>
+3. ⬆️ Pushed undefined commit(s) to [hernandw/p-l_calendar_trading](https://github.com/hernandw/p-l_calendar_trading)<br>
+4. ⬆️ Pushed undefined commit(s) to [hernandw/p-l_calendar_trading](https://github.com/hernandw/p-l_calendar_trading)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 21st, 2026, 4:09:52 AM
+Last Updated: Wednesday, October 21st, 2026, 4:17:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
