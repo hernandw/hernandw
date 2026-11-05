@@ -150,14 +150,14 @@ const aboutMe = {
 ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [hernandw/divisor_cuentas](https://github.com/hernandw/divisor_cuentas)<br>
-2. ⬆️ Pushed undefined commit(s) to [hernandw/divisor_cuentas](https://github.com/hernandw/divisor_cuentas)<br>
+1. ⬆️ Pushed undefined commit(s) to [hernandw/mis_gastos_app](https://github.com/hernandw/mis_gastos_app)<br>
+2. ⬆️ Pushed undefined commit(s) to [hernandw/mis_gastos_app](https://github.com/hernandw/mis_gastos_app)<br>
 3. ⬆️ Pushed undefined commit(s) to [hernandw/divisor_cuentas](https://github.com/hernandw/divisor_cuentas)<br>
 4. ⬆️ Pushed undefined commit(s) to [hernandw/divisor_cuentas](https://github.com/hernandw/divisor_cuentas)<br>
 5. ⬆️ Pushed undefined commit(s) to [hernandw/divisor_cuentas](https://github.com/hernandw/divisor_cuentas)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 4th, 2026, 7:35:56 PM
+Last Updated: Thursday, November 5th, 2026, 4:12:19 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
