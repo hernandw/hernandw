@@ -150,14 +150,14 @@ const aboutMe = {
 ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [hernandw/mis_gastos_app_json](https://github.com/hernandw/mis_gastos_app_json)<br>
-2. ⬆️ Pushed undefined commit(s) to [hernandw/mis_gastos_app](https://github.com/hernandw/mis_gastos_app)<br>
-3. ⬆️ Pushed undefined commit(s) to [hernandw/mis_gastos_app_json](https://github.com/hernandw/mis_gastos_app_json)<br>
+1. ⬆️ Pushed undefined commit(s) to [hernandw/finanzas-curso-app](https://github.com/hernandw/finanzas-curso-app)<br>
+2. ⬆️ Pushed undefined commit(s) to [hernandw/finanzas-curso-app](https://github.com/hernandw/finanzas-curso-app)<br>
+3. ⬆️ Pushed undefined commit(s) to [hernandw/finanzas-curso-app](https://github.com/hernandw/finanzas-curso-app)<br>
 4. ⬆️ Pushed undefined commit(s) to [hernandw/mis_gastos_app_json](https://github.com/hernandw/mis_gastos_app_json)<br>
-5. ⬆️ Pushed undefined commit(s) to [hernandw/mis_gastos_app_json](https://github.com/hernandw/mis_gastos_app_json)<br>
+5. ⬆️ Pushed undefined commit(s) to [hernandw/finanzas-curso-app](https://github.com/hernandw/finanzas-curso-app)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 6th, 2026, 7:08:22 PM
+Last Updated: Saturday, November 7th, 2026, 3:42:50 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
