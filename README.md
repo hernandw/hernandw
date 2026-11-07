@@ -153,11 +153,11 @@ const aboutMe = {
 1. ⬆️ Pushed undefined commit(s) to [hernandw/finanzas-curso-app](https://github.com/hernandw/finanzas-curso-app)<br>
 2. ⬆️ Pushed undefined commit(s) to [hernandw/finanzas-curso-app](https://github.com/hernandw/finanzas-curso-app)<br>
 3. ⬆️ Pushed undefined commit(s) to [hernandw/finanzas-curso-app](https://github.com/hernandw/finanzas-curso-app)<br>
-4. ⬆️ Pushed undefined commit(s) to [hernandw/mis_gastos_app_json](https://github.com/hernandw/mis_gastos_app_json)<br>
-5. ⬆️ Pushed undefined commit(s) to [hernandw/finanzas-curso-app](https://github.com/hernandw/finanzas-curso-app)<br>
+4. ⬆️ Pushed undefined commit(s) to [hernandw/finanzas-curso-app](https://github.com/hernandw/finanzas-curso-app)<br>
+5. ⬆️ Pushed undefined commit(s) to [hernandw/mis_gastos_app_json](https://github.com/hernandw/mis_gastos_app_json)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 7th, 2026, 3:42:50 AM
+Last Updated: Saturday, November 7th, 2026, 5:29:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
