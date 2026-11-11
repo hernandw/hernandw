@@ -150,14 +150,14 @@ const aboutMe = {
 ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [hernandw/finanzas-curso-app](https://github.com/hernandw/finanzas-curso-app)<br>
-2. ⬆️ Pushed undefined commit(s) to [hernandw/finanzas-curso-app](https://github.com/hernandw/finanzas-curso-app)<br>
-3. ⬆️ Pushed undefined commit(s) to [hernandw/finanzas-curso-app](https://github.com/hernandw/finanzas-curso-app)<br>
+1. ⬆️ Pushed undefined commit(s) to [hernandw/app_gym](https://github.com/hernandw/app_gym)<br>
+2. ⬆️ Pushed undefined commit(s) to [hernandw/app_gym](https://github.com/hernandw/app_gym)<br>
+3. ⬆️ Pushed undefined commit(s) to [hernandw/app_gym](https://github.com/hernandw/app_gym)<br>
 4. ⬆️ Pushed undefined commit(s) to [hernandw/finanzas-curso-app](https://github.com/hernandw/finanzas-curso-app)<br>
 5. ⬆️ Pushed undefined commit(s) to [hernandw/finanzas-curso-app](https://github.com/hernandw/finanzas-curso-app)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 11th, 2026, 5:38:31 AM
+Last Updated: Wednesday, November 11th, 2026, 6:59:18 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
