@@ -151,13 +151,13 @@ const aboutMe = {
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [hernandw/finanzas-curso-app](https://github.com/hernandw/finanzas-curso-app)<br>
-2. ⬆️ Pushed undefined commit(s) to [hernandw/p-l_calendar_trading](https://github.com/hernandw/p-l_calendar_trading)<br>
-3. ⬆️ Pushed undefined commit(s) to [hernandw/p-l_calendar_trading](https://github.com/hernandw/p-l_calendar_trading)<br>
-4. ⬆️ Pushed undefined commit(s) to [hernandw/p-l_calendar_trading](https://github.com/hernandw/p-l_calendar_trading)<br>
-5. ⬆️ Pushed undefined commit(s) to [hernandw/p-l_calendar_trading](https://github.com/hernandw/p-l_calendar_trading)<br>
+2. ⬆️ Pushed undefined commit(s) to [hernandw/finanzas-curso-app](https://github.com/hernandw/finanzas-curso-app)<br>
+3. ⬆️ Pushed undefined commit(s) to [hernandw/finanzas-curso-app](https://github.com/hernandw/finanzas-curso-app)<br>
+4. ⬆️ Pushed undefined commit(s) to [hernandw/finanzas-curso-app](https://github.com/hernandw/finanzas-curso-app)<br>
+5. ⬆️ Pushed undefined commit(s) to [hernandw/finanzas-curso-app](https://github.com/hernandw/finanzas-curso-app)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 15th, 2026, 5:49:54 AM
+Last Updated: Sunday, November 15th, 2026, 6:10:52 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
